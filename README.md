@@ -54,4 +54,4 @@ This project aims to explore the intersection of biomedical engineering and data
 ## Contributors
 This project was completed with contributions from the following team members:
 - **Younghwan Choi**: Data preprocessing, model training, and evaluation.
-- **김성채**: Data preprocessing, model training, and evaluation.
+- **김성채**: Data preprocessing, model training, and evaluation.
